@@ -1,0 +1,34 @@
+[*] Matteo Zavatteri, Carlo Combi, Romeo Rizzi, Luca Vigan√. Hybrid SAT-based Consistency Checking Algorithms for Simple Temporal Networks with Decisions. In 26th International Symposium on Temporal Representation and Reasoning (TIME 2019), volume 147, pages 2:1-2:17
+
+Link: (coming soon)
+Bibtex:
+@InProceedings{StndHsccTIME2019,
+  author       = {Matteo Zavatteri and Carlo Combi and Romeo Rizzi and Luca Vigan\`o},
+  title        = {Hybrid SAT-based Consistency Checking Algorithms for Simple Temporal Networks with Decisions},
+  booktitle = {26th International Symposium on Temporal Representation and Reasoning (TIME 2019).},
+  pages =   {2:1--2:17},
+  year =    {2019},
+  doi =   {10.4230/LIPIcs.TIME.2019.2},
+  volume =  {147},
+  publisher =  {Schloss Dagstuhl-Leibniz-Zentrum fuer Informatik}
+}
+
+
+[*] Massimo Cairo, Carlo Combi, Carlo Comin, Luke Hunsberger, Roberto Posenato, Romeo Rizzi, Matteo Zavatteri. Incorporating Decision Nodes into Conditional Simple Temporal Networks. 
+In 24th International Symposium on Temporal Representation and Reasoning (TIME 2017), volume 90, pages 9:1-9:17. 
+Schloss Dagstuhl-Leibniz-Zentrum fuer Informatik, 2017.
+
+Link: http://drops.dagstuhl.de/opus/volltexte/2017/7915/pdf/LIPIcs-TIME-2017-9.pdf
+Bibtex:
+@InProceedings{CairoCCHPRZ17,
+  author =  {Massimo Cairo and Carlo Combi and Carlo Comin and Luke Hunsberger and Roberto Posenato and Romeo Rizzi and Matteo Zavatteri},
+  title =   {Incorporating Decision Nodes into Conditional Simple Temporal Networks},
+  booktitle = {24th International Symposium on Temporal Representation and Reasoning (TIME 2017)},
+  pages =   {9:1--9:17},
+  year =    {2017},
+  volume =  {90},
+  doi =   {10.4230/LIPIcs.TIME.2017.9},
+  publisher =  {Schloss Dagstuhl-Leibniz-Zentrum fuer Informatik},
+}
+
+
